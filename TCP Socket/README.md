@@ -1,0 +1,1 @@
+- Code a pair of client and server apps with python, one is sending random numbers every second and the other one listens and plots the values in realtime.
